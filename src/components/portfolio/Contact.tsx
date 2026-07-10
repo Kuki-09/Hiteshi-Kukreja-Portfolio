@@ -15,7 +15,6 @@ const schema = z.object({
 
 const INFO = [
   { icon: Mail, label: "Email", value: "hiteshi724@gmail.com", href: "mailto:hiteshi724@gmail.com" },
-  { icon: Phone, label: "Phone", value: "+91 9607042327", href: "tel:+919607042327" },
   { icon: Linkedin, label: "LinkedIn", value: "linkedin.com/in/hiteshi-kukreja", href: "https://linkedin.com/in/hiteshi-kukreja" },
   { icon: Github, label: "GitHub", value: "github.com/Kuki-09", href: "https://github.com/Kuki-09" },
   { icon: MapPin, label: "Location", value: "Pune, India" },
