@@ -47,7 +47,7 @@ export default function Education() {
             <div className="flex items-center gap-1 text-xs uppercase tracking-widest text-muted-foreground">
               <Trophy className="h-3.5 w-3.5" /> CGPA
             </div>
-            <div className="text-2xl font-bold text-gradient">8.66</div>
+            <div className="text-2xl font-bold text-gradient">8.78</div>
           </div>
         </div>
 
