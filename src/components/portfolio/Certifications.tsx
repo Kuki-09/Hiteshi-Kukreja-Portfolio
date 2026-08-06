@@ -20,7 +20,7 @@ const CERTS = [
  {
     title: "HackerRank SQL (Advanced) Certificate",
     org: "HackerRank",
-    year: "2025",
+    year: "2026",
     tag: "SQL",
     link:"https://www.hackerrank.com/certificates/7d10e9b090a1",
   },
