@@ -17,7 +17,7 @@ const INFO = [
   { icon: Mail, label: "Email", value: "hiteshi724@gmail.com", href: "mailto:hiteshi724@gmail.com" },
   { icon: Linkedin, label: "LinkedIn", value: "linkedin.com/in/hiteshi-kukreja", href: "https://linkedin.com/in/hiteshi-kukreja" },
   { icon: Github, label: "GitHub", value: "github.com/Kuki-09", href: "https://github.com/Kuki-09" },
-  { icon: MapPin, label: "Location", value: "Pune, India" },
+  { icon: MapPin, label: "Location", value: " Pune  |  Bengaluru, India" },
 ];
 
 
