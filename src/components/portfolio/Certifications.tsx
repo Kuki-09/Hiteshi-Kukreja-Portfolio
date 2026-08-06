@@ -18,11 +18,11 @@ const CERTS = [
     link:"https://drive.google.com/file/d/1pHP0LSZGWRuVIBbGU9d1IDOjjSMByFAe/view?usp=sharing",
   },
  {
-    title: "HackerRank SQL (Basic) Certificate",
+    title: "HackerRank SQL (Advanced) Certificate",
     org: "HackerRank",
     year: "2025",
     tag: "SQL",
-    link:"https://www.hackerrank.com/certificates/ac371f07994b",
+    link:"https://www.hackerrank.com/certificates/7d10e9b090a1",
   },
   {
     title: "AWS Academy Machine Learning Foundations",
