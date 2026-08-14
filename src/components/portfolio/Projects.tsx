@@ -83,7 +83,7 @@ const PROJECTS: Project[] = [
         "Linear Regression achieved the highest CV R² of 0.87 and a final test R² of 0.88", 
         "Built a FastAPI backend for model inference and REST API-based predictions",
         "Developed an interactive Streamlit frontend for user input and predictions", 
-        "Deployed the Streamlit frontend on Streamlit Community Cloud and FastAPI backend on Render"
+        "Deployed the Streamlit frontend on Streamlit Community Cloud and FastAPI backend on Render",
     ],
     stack: ["Python", "Regression models", "Pandas", "Numpy", Scikit-learn, "Docker", "Streamlit"],
     challenges:
