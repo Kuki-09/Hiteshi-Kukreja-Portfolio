@@ -73,16 +73,19 @@ const PROJECTS: Project[] = [
     short:
       "Machine learning application that predicts student academic performance using the best-performing regression model, with Linear Regression achieving the highest R² score of 0.88.",
     overview:
-      "An end-to-end machine learning pipeline to predict student academic performance from educational and demographic data. The project includes data preprocessing, feature engineering, model evaluation, and deployment through an interactive web application.",
+      "An end-to-end machine learning application that predicts student Math Scores using demographic, academic, and test-preparation features. The project includes exploratory data analysis, data preprocessing, multiple regression models, 5-fold cross-validation, hyperparameter tuning, model selection, and deployment through a FastAPI backend and Streamlit frontend.",
     features: [
-        "Data preprocessing and feature engineering",
-        "Training and evaluation of multiple regression models",
-        "Linear Regression model achieving an R² score of 0.88",
-        "Interactive prediction interface using Streamlit",
-        "Containerized deployment with Docker",
-        "Hosted application using Streamlit and Render",
+        "Performed exploratory data analysis to understand feature distributions, missing values, and relationships with the target variable",
+        "Built a modular ML pipeline for data ingestion, preprocessing, model training, and prediction",
+        "Applied missing-value imputation, One-Hot Encoding, and feature scaling using Scikit-learn pipelines",
+        "Compared 7 regression algorithms using 5-fold cross-validation", 
+        "Performed hyperparameter tuning using GridSearchCV and selected the best model based on cross-validation performance", 
+        "Linear Regression achieved the highest CV R² of 0.87 and a final test R² of 0.88", 
+        "Built a FastAPI backend for model inference and REST API-based predictions",
+        "Developed an interactive Streamlit frontend for user input and predictions", 
+        "Deployed the Streamlit frontend on Streamlit Community Cloud and FastAPI backend on Render"
     ],
-    stack: ["Python", "Regression models", "Pandas", "Numpy", "Docker", "Streamlit"],
+    stack: ["Python", "Regression models", "Pandas", "Numpy", Scikit-learn, "Docker", "Streamlit"],
     challenges:
       "Handling missing and inconsistent values in the dataset during preprocessing.\nImproving model performance through feature engineering and parameter tuning.\nDeploying the trained model while ensuring consistent preprocessing between training and prediction phases.",
     github: "https://github.com/Kuki-09/MLproject",
