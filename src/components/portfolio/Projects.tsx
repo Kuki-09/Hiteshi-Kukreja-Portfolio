@@ -31,7 +31,7 @@ const PROJECTS: Project[] = [
         "Context-aware document retrieval using vector search",
         "Context-aware answers powered by LLaMA 3.2",
         "Improved retrieval using intelligent chunking and reranking",
-        "Voice-based query support using Whisper",
+        "Voice-based query support",
         "Persistent conversation history using SQLite",
     ],
     stack: ["Python",
@@ -40,8 +40,7 @@ const PROJECTS: Project[] = [
       "LLaMA 3.2",
       "FAISS",
       "Hugging Face",
-      "SQLite",
-      "Whisper"],
+      "SQLite"],
     challenges:
       "Retrieving only the most relevant document chunks for accurate responses. \nManaging documents of different formats within a single pipeline. \nReducing irrelevant context while maintaining response quality. \nMaintaining conversation history across multiple user interactions.",
     github: "https://github.com/Kuki-09/rag-ai-assistant",
