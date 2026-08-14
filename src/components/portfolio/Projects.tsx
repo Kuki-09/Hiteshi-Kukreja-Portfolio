@@ -85,7 +85,7 @@ const PROJECTS: Project[] = [
         "Developed an interactive Streamlit frontend for user input and predictions", 
         "Deployed the Streamlit frontend on Streamlit Community Cloud and FastAPI backend on Render",
     ],
-    stack: ["Python", "Regression models", "Pandas", "Numpy", Scikit-learn, "Docker", "Streamlit"],
+    stack: ["Python", "Regression models", "Pandas", "Numpy", "Scikit-learn", "Docker", "Streamlit"],
     challenges:
       "Handling missing and inconsistent values in the dataset during preprocessing.\nImproving model performance through feature engineering and parameter tuning.\nDeploying the trained model while ensuring consistent preprocessing between training and prediction phases.",
     github: "https://github.com/Kuki-09/MLproject",
