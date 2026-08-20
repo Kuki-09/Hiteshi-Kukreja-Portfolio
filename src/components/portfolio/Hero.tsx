@@ -151,7 +151,7 @@ export default function Hero() {
               <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
             </button>
             <a
-              href= "https://drive.google.com/file/d/1fTd4fmLsj7uTqNPdaujiGmKjJEbcd/view?usp=sharing"
+              href="https://drive.google.com/file/d/1vDSqeEs6cVu6p5NE6oSclfgvw4NHnTNk/view?usp=drive_link"
               download
               className="inline-flex items-center gap-2 rounded-full glass px-5 py-3 text-sm font-semibold transition-all duration-300 hover:bg-white/10 hover:shadow-glow"
             >
