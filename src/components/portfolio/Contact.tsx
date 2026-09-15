@@ -1,6 +1,6 @@
 import { useState, type FormEvent } from "react";
 import { motion } from "framer-motion";
-import { Mail, Phone, MapPin, Linkedin, Github, Send, CheckCircle2 } from "lucide-react";
+import { Mail, Phone, MapPin, Linkedin, Github, Send, CheckCircle2, Code2  } from "lucide-react";
 import { z } from "zod";
 import Section from "./Section";
 import { toast } from "sonner";
@@ -17,6 +17,7 @@ const INFO = [
   { icon: Mail, label: "Email", value: "hiteshi724@gmail.com", href: "mailto:hiteshi724@gmail.com" },
   { icon: Linkedin, label: "LinkedIn", value: "linkedin.com/in/hiteshi-kukreja", href: "https://linkedin.com/in/hiteshi-kukreja" },
   { icon: Github, label: "GitHub", value: "github.com/Kuki-09", href: "https://github.com/Kuki-09" },
+  { icon: Code2 , label: "HackerRank", value: "profile/hiteshi724", href: "https://www.hackerrank.com/profile/hiteshi724" },
   { icon: MapPin, label: "Location", value: " Pune  |  Bengaluru, India" },
 ];
 
