@@ -150,14 +150,6 @@ export default function Hero() {
               Explore My Work
               <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
             </button>
-            <a
-              href="https://drive.google.com/file/d/1vDSqeEs6cVu6p5NE6oSclfgvw4NHnTNk/view?usp=drive_link"
-              download
-              className="inline-flex items-center gap-2 rounded-full glass px-5 py-3 text-sm font-semibold transition-all duration-300 hover:bg-white/10 hover:shadow-glow"
-            >
-              <Download className="h-4 w-4" />
-              Download Resume
-            </a>
             <button
               onClick={() => scrollTo("contact")}
               className="inline-flex items-center gap-2 rounded-full border border-white/10 px-5 py-3 text-sm font-semibold text-muted-foreground transition-colors hover:text-foreground"
