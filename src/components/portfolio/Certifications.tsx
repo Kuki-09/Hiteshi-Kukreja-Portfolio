@@ -25,6 +25,13 @@ const CERTS = [
     link:"https://www.hackerrank.com/certificates/7d10e9b090a1",
   },
   {
+    title: "HackerRank Problem Solving (Intermediate) Certificate",
+    org: "HackerRank",
+    year: "2026",
+    tag: "PS",
+    link:"https://www.hackerrank.com/certificates/a935804f46e8",
+  },
+  {
     title: "AWS Academy Machine Learning Foundations",
     org: "AWS",
     year: "2024",
