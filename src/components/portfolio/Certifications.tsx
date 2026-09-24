@@ -17,6 +17,20 @@ const CERTS = [
     tag: "AWS",
     link:"https://drive.google.com/file/d/1pHP0LSZGWRuVIBbGU9d1IDOjjSMByFAe/view?usp=sharing",
   },
+    {
+    title: "HackerRank Java (Basic) Certificate",
+    org: "HackerRank",
+    year: "2026",
+    tag: "Java",
+    link:"https://www.hackerrank.com/certificates/1f3367496e7f",
+  },
+    {
+    title: "HackerRank Problem Solving (Intermediate) Certificate",
+    org: "HackerRank",
+    year: "2026",
+    tag: "PS",
+    link:"https://www.hackerrank.com/certificates/a935804f46e8",
+  },
  {
     title: "HackerRank SQL (Advanced) Certificate",
     org: "HackerRank",
@@ -24,13 +38,7 @@ const CERTS = [
     tag: "SQL",
     link:"https://www.hackerrank.com/certificates/7d10e9b090a1",
   },
-  {
-    title: "HackerRank Problem Solving (Intermediate) Certificate",
-    org: "HackerRank",
-    year: "2026",
-    tag: "PS",
-    link:"https://www.hackerrank.com/certificates/a935804f46e8",
-  },
+
   {
     title: "AWS Academy Machine Learning Foundations",
     org: "AWS",
